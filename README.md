@@ -2,7 +2,7 @@
 
 # C O D E F L O W
 ### The Ultimate Loading Experience for FiveM
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/c86366fc-dd28-4f5f-99d3-8fe5954246f3" />
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/7791532f-4df2-41b4-bd2f-1819b98c2024" />
 
 <p align="center">
   <a href="https://codeflow-2.gitbook.io/codeflow"><img src="https://img.shields.io/badge/Documentation-GitBook-F3C96F?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook"/></a><a href="https://discord.com/invite/nATnmTHeXu"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://fivem.net/"><img src="https://img.shields.io/badge/FiveM-Resource-orange?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM"/></a>
@@ -45,7 +45,7 @@ Adjust the entire experience directly via configuration files — no rebuilding 
 <div align="center">
 
 ## 📸 Gallery
-<img width="33%" alt="tips" src="https://github.com/user-attachments/assets/cbcb048a-f88c-4dfe-a5ca-971524d7edf8" /> <img width="33%" alt="updates" src="https://github.com/user-attachments/assets/318d8ed2-0d77-4b28-b4a8-41b60a7ddd2e" /> <img width="33%" alt="keyboard" src="https://github.com/user-attachments/assets/2589adb5-9fe5-46f9-9e9c-cca3f470510c" />
+<img width="33%" alt="tips" src="https://github.com/user-attachments/assets/8dc0ede2-1dc8-407d-b330-a4873f536fa7" /> <img width="33%" alt="updates" src="https://github.com/user-attachments/assets/2d968e20-18a6-4455-9aa4-ce65ac786174" /> <img width="33%" alt="keyboard" src="https://github.com/user-attachments/assets/4b33c2b5-e916-4bcf-8a1f-c48805305088" />
 
 </div>
 
