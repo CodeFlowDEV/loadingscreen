@@ -1,0 +1,41 @@
+{
+    "useParticles": true,
+    "particleColor": "#C2B280",
+    "IsLogoImage": false,
+    "LogoSource": "/assets/logo.png",
+    "LogoText": "CodeFlow",
+    "textShadow": false,
+    "shadowStrength": 0.8,
+    "overlayOpacity": 0.7,
+
+    "music": ["./assets/music.mp3"],
+    "volume": 0.5,
+
+    "socials": {
+        "youtube": "youtube.com",
+        "tiktok": "tiktok.com",
+        "instagram": "",
+        "twitter": "twitter.com",
+        "facebook": ""
+    },
+
+    "tips": [
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro quia magnam officia animi qui esse consectetur exercitationem ratione nostrum. Nam quos voluptates provident, distinctio omnis numquam commodi eligendi temporibus veniam!",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. provident, distinctio omnis numquam commodi eligendi temporibus veniam!",
+        "Lorem ipsum dolor sit, amet consectetur adipisi omnis numquam commodi eligendi temporibus veniam!",
+        "Lorem ipsum dolor sit, amet consectetur adipisi omnam!"
+    ],
+
+    "newsVersion": "1.0",
+
+    "news": [
+        "Added 10 new cars",
+        "Fixed inventory bug",
+        "Made a new system for combat, which balancing the fights for attackers and defenders too!",
+        "Added 10 new cars",
+        "Fixed inventory bug",
+        "Made a new system for combat, which balancing the fights for attackers and defenders too!"
+    ],
+
+    "tipsTimer": 5000 
+}
