@@ -45,7 +45,7 @@ Adjust the entire experience directly via configuration files — no rebuilding 
 <div align="center">
 
 ## 📸 Gallery
-<img width="33%" alt="tips" src="https://github.com/user-attachments/assets/8dc0ede2-1dc8-407d-b330-a4873f536fa7" /> <img width="33%" alt="updates" src="https://github.com/user-attachments/assets/2d968e20-18a6-4455-9aa4-ce65ac786174" /> <img width="33%" alt="keyboard" src="https://github.com/user-attachments/assets/4b33c2b5-e916-4bcf-8a1f-c48805305088" />
+<img width="30%" alt="tips" src="https://github.com/user-attachments/assets/8dc0ede2-1dc8-407d-b330-a4873f536fa7" /> <img width="30%" alt="updates" src="https://github.com/user-attachments/assets/2d968e20-18a6-4455-9aa4-ce65ac786174" /> <img width="30%" alt="keyboard" src="https://github.com/user-attachments/assets/4b33c2b5-e916-4bcf-8a1f-c48805305088" />
 
 </div>
 
