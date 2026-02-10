@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme{
+    --primary: #C2B280;
+    --black: #171717;
+    --white: #e8e8e8ff;
+    --shadow-primary: rgba(194, 178, 128, 0.3);
+    --opacity-primary: rgba(194, 178, 128, 0.5);
+    --shadow-black: rgba(0, 0, 0, 0.3)
+}
