@@ -2,10 +2,10 @@
 
 # C O D E F L O W
 ### The Ultimate Loading Experience for FiveM
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/7791532f-4df2-41b4-bd2f-1819b98c2024" />
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/17225790-efcb-4659-b243-e46b44df083b" />
 
 <p align="center">
-  <a href="https://codeflow-2.gitbook.io/codeflow"><img src="https://img.shields.io/badge/Documentation-GitBook-F3C96F?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook"/></a><a href="https://discord.com/invite/nATnmTHeXu"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://youtu.be/jw_t8VidhvM"><img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://codeflow-2.gitbook.io/codeflow"><img src="https://img.shields.io/badge/Documentation-GitBook-F3C96F?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook"/></a><a href="https://discord.com/invite/nATnmTHeXu"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://youtu.be/jw_t8VidhvM"><img src="https://img.shields.io/badge/YouTube-Preview%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Preview"/></a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ Adjust the entire experience directly via configuration files — no rebuilding 
 <div align="center">
 
 ## 📸 Gallery
-<img width="30%" alt="tips" src="https://github.com/user-attachments/assets/8dc0ede2-1dc8-407d-b330-a4873f536fa7" /> <img width="30%" alt="updates" src="https://github.com/user-attachments/assets/2d968e20-18a6-4455-9aa4-ce65ac786174" /> <img width="30%" alt="keyboard" src="https://github.com/user-attachments/assets/4b33c2b5-e916-4bcf-8a1f-c48805305088" />
+<img width="30%" alt="tips" src="https://github.com/user-attachments/assets/5a659738-ef1a-43c0-8026-543e82444345" /> <img width="30%" alt="updates" src="https://github.com/user-attachments/assets/65ae0a01-89db-4439-a5d1-223ac3666879" /> <img width="30%" alt="keyboard" src="https://github.com/user-attachments/assets/23e5dcde-f14d-4d75-8c72-e94559e1846b" />
 
 </div>
 
